@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TodoList-with_react/static/css/main.f31597c7.chunk.css",
+    "main.js": "/TodoList-with_react/static/js/main.02574a3a.chunk.js",
+    "main.js.map": "/TodoList-with_react/static/js/main.02574a3a.chunk.js.map",
+    "runtime-main.js": "/TodoList-with_react/static/js/runtime-main.59fc4938.js",
+    "runtime-main.js.map": "/TodoList-with_react/static/js/runtime-main.59fc4938.js.map",
+    "static/js/2.daf91719.chunk.js": "/TodoList-with_react/static/js/2.daf91719.chunk.js",
+    "static/js/2.daf91719.chunk.js.map": "/TodoList-with_react/static/js/2.daf91719.chunk.js.map",
+    "static/js/3.2d10b565.chunk.js": "/TodoList-with_react/static/js/3.2d10b565.chunk.js",
+    "static/js/3.2d10b565.chunk.js.map": "/TodoList-with_react/static/js/3.2d10b565.chunk.js.map",
+    "index.html": "/TodoList-with_react/index.html",
+    "static/css/main.f31597c7.chunk.css.map": "/TodoList-with_react/static/css/main.f31597c7.chunk.css.map",
+    "static/js/2.daf91719.chunk.js.LICENSE.txt": "/TodoList-with_react/static/js/2.daf91719.chunk.js.LICENSE.txt",
+    "static/media/book.1b3868f7.png": "/TodoList-with_react/static/media/book.1b3868f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59fc4938.js",
+    "static/js/2.daf91719.chunk.js",
+    "static/css/main.f31597c7.chunk.css",
+    "static/js/main.02574a3a.chunk.js"
+  ]
+}
